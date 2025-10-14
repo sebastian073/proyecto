@@ -11,11 +11,11 @@
   "dependencies": {
     "@react-navigation/native": "^6.1.17",
     "@react-navigation/native-stack": "^6.9.26",
-    "expo": "^51.0.39",
+    "expo": "~51.0.0",
     "expo-status-bar": "~2.0.0",
     "firebase": "^11.9.0",
     "react": "18.2.0",
-    "react-native": "0.73.0"
+    "react-native": "0.74.5"
   },
   "devDependencies": {
     "@babel/core": "^7.25.0",
