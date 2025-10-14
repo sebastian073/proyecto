@@ -2,6 +2,7 @@
 import React from 'react'
 import { createRoot } from 'react-dom/client'
 import { BrowserRouter, Routes, Route, Navigate, Link } from 'react-router-dom'
+import './index.css'
 import Login from './pages/Login.jsx'
 import Dashboard from './pages/Dashboard.jsx'
 import Products from './pages/Products.jsx'
