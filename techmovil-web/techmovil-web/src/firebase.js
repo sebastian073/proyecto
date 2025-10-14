@@ -5,12 +5,12 @@ import { getFirestore } from 'firebase/firestore'
 
 // TODO: reemplaza con tus credenciales de Firebase (web)
 export const firebaseConfig = {
-  apiKey: "TU_API_KEY",
-  authDomain: "TU_AUTH_DOMAIN",
-  projectId: "TU_PROJECT_ID",
-  storageBucket: "TU_STORAGE_BUCKET",
-  messagingSenderId: "TU_SENDER_ID",
-  appId: "TU_APP_ID"
+  apiKey: "AIzaSyD0p5C9AFVl3ieO7v4EQdF0v53m2j16sdE",
+  authDomain: "proyecto-final-f4772.firebaseapp.com",
+  projectId: "proyecto-final-f4772",
+  storageBucket: "proyecto-final-f4772.firebasestorage.app",
+  mensajeríaSenderId: "725456515413",
+  appId: "1:725456515413:web:cae6d74c5953ca6ab83fdc"
 };
 
 const app = initializeApp(firebaseConfig);
