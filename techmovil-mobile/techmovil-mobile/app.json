@@ -1,0 +1,12 @@
+
+{
+  "expo": {
+    "name": "techmovil-mobile",
+    "slug": "techmovil-mobile",
+    "scheme": "techmovil",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "plugins": [],
+    "android": { "package": "com.techmovil.reportes", "versionCode": 1 }
+  }
+}
